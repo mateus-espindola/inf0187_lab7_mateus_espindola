@@ -1,4 +1,4 @@
-# Laboratório de GitHub
+# Laboratório de HubGit
 
 Nome: Mateus Espíndola
 Curso: Ciência da Computação
